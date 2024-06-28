@@ -20,6 +20,9 @@ pre-commit = "^3.7.1"
 drf-spectacular = "^0.27.2"
 mock = "^5.1.0"
 kafka-python = "^2.0.2"
+python-telegram-bot = "^21.3"
+sqlalchemy = {extras = ["async"], version = "^2.0.31"}
+asyncpg = "^0.29.0"
 
 
 [build-system]
